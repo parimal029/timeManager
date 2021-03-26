@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>435729849484-5eocml9rj9jade1c3k1svkmam87larri.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.435729849484-5eocml9rj9jade1c3k1svkmam87larri</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDD1tBuJTFrl4rpayUXi0CydJmDbLeYryc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>435729849484</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.TimeManager</string>
+	<key>PROJECT_ID</key>
+	<string>timemanager-c9bca</string>
+	<key>STORAGE_BUCKET</key>
+	<string>timemanager-c9bca.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:435729849484:ios:dfb0f5c69196013370efa9</string>
+</dict>
+</plist>
